@@ -1,0 +1,5 @@
+1. Buatlah simulasi rangkaian di website WOKWI menggunakan Arduino dan 3 buah LED (Merah Kuning Hijau). Atur programnya agar masing-masing LED menyala bergantian dengan jeda (delay) 3 detik setiap pergantian.
+Demo : https://wokwi.com/projects/429359971394787329 
+
+2. Buatlah simulasi rangkaian di website WOKWI menggunakan Arduino, sensor DHT22, dan 1 buah LED. Programkan agar LED menyala Ketika suhu yang terdeteksi oleh DHT22 mencapai 30°C atau lebih.
+Demo : https://wokwi.com/projects/429363160850740225
