@@ -1,0 +1,11 @@
+1. Simulasi LED dan Buzzer
+Demo: https://wokwi.com/projects/429356898613828609
+
+2. Simulasi Sensor Ultrasonik
+Demo: https://wokwi.com/projects/429357137653535745
+
+3. Simulasi Motor Servo
+Demo: https://wokwi.com/projects/429358645132683265
+
+4. Simulasi Sensor Suhu dan Kelembaban
+Demo: https://wokwi.com/projects/429359283147180033
